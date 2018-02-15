@@ -1,0 +1,45 @@
+.row
+{
+	height: 600px;
+	background:linear-gradient(to left ,#66ff33,#ccff33,#ffff1a,#ffcc00,#ff9933,#ff6600,#ff4d4d,#cc0000);
+}
+.x
+{
+	height:600px;
+	width:100%;
+}
+.y
+{
+	height: 290px;
+	width:100%;
+	margin-bottom: 10px;
+}
+.pic
+{
+	height: 70px;
+	width:100px;
+	float:right;
+}
+.navbar-inverse
+{
+	height:70px;
+	background-color: #ff0000;
+}
+.navbar-inverse .navbar-nav li a
+{
+	color:#000;
+}
+.table
+{
+	border:1px solid #100fff;
+	width:100%;
+	height:500px;
+}
+.glyphicon
+{
+	color:#1af;
+}
+.bo
+{
+	background-image:url(photos/Junior8.jpg);
+}
